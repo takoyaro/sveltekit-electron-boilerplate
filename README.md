@@ -45,4 +45,5 @@ The build step is managed by the [electron-builder](https://www.electron.build/)
 
 NOTE: Currently only windows configured out of the box.
 
-![Svelte-Electron-Boilerplate preview](preview.png?raw=true "In action preview")
+### Credits
+I'd like to thank [hjalmar](https://github.com/hjalmar) for making the original [svelte-electron-boilerplate](https://github.com/hjalmar/svelte-electron-boilerplate). This project uses most of his original code with the exception of the frontend; He deserves all the credit.
